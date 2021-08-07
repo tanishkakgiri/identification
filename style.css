@@ -1,0 +1,79 @@
+body{
+    font-family:'Special Elite', cursive;
+    color:grey;
+    align-items: center;
+    }
+    #q{
+        font-size: 72px;
+        font-family:'Special Elite', cursive;
+    }
+    h5{
+        font-size: 20px;
+        color: rgb(0, 255, 179);
+    }
+    .bob
+    {
+        background: #000000;
+        font-size: 20px;
+      padding: 30px;
+      border-radius: 20px;
+      width: 45%;
+      display: inline-block;
+      box-shadow: 5px 5px 18px black;
+    }
+    b
+    {
+        color: purple;
+        font-size: 20px;
+    }
+    
+    .bob3
+    {
+      text-align: center;
+      background: yellowgreen;
+      border-radius: 20px;
+      padding: 10px;
+    }
+    
+    .main_div{
+        border: 3px solid white;
+        padding: 10px;
+        margin-top: 15px;
+        background-color: darkblue;
+        box-shadow: 5px 5px 20px white;
+        margin-left: 0px;
+    }
+    
+    .main_div label{
+        border:white;
+        padding: 10px;
+        margin-bottom: 0px;
+        width: 310px;
+        box-shadow: 5px 5px 20px white;
+    }
+    #camera{
+        width: 310px;
+        height:300px;
+        border: 2px solid white;
+        box-shadow: 5px 5px 20px white;
+    }
+    #result{
+        width: 310px;
+        height:300px;
+        border: 2px solid white;
+        box-shadow: 5px 5px 20px white;
+    }
+    
+    .main_div button{
+        font-size: 20px;
+        font-weight: bold;
+        width: 310px;
+        box-shadow: 5px 5px 20px white;
+        border: 1px solid white;
+    }
+    
+  #image1{
+      height: 200px;
+      margin-top: 250px;
+      margin-bottom: 250px;
+  } 
